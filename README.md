@@ -1,2 +1,2 @@
 # declarative-riscv
-Declarative macro for RISC-V intermediate representation.
+Declarative macro for RISC-V parsing.
